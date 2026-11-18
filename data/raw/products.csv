@@ -1,0 +1,17 @@
+product_id,product_name,category,list_price,unit_cost,is_active
+1001,Wireless Earbuds,Electronics,59.99,32.99,True
+1002,4K Monitor 27in,Electronics,329.00,180.95,True
+1003,USB-C Hub,Electronics,39.50,21.73,True
+1004,Mechanical Keyboard,Electronics,119.00,65.45,True
+1005,Webcam 1080p,Electronics,74.99,41.24,True
+1006,Air Purifier,Home,189.00,103.95,True
+1007,Smart Bulb 4-pack,Home,44.99,24.74,True
+1008,Robot Vacuum,Home,279.00,153.45,True
+1009,Coffee Grinder,Home,69.00,37.95,True
+1010,Hiking Backpack 40L,Outdoors,129.00,70.95,True
+1011,Trekking Poles,Outdoors,49.00,26.95,True
+1012,Insulated Bottle,Outdoors,29.99,16.49,True
+1013,Camping Lantern,Outdoors,34.50,18.98,True
+1014,Rain Jacket,Apparel,99.00,54.45,True
+1015,Running Shoes,Apparel,139.00,76.45,True
+1016,Merino T-Shirt,Apparel,54.00,29.7,True

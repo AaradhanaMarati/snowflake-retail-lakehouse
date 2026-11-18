@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,country_code,segment,signup_date,updated_at
+156,Noah,Smith,noah.smith156@example.com,IN,CONSUMER,2025-06-07,2025-11-15T09:30:00
+91,Mateo,Patel,mateo.patel91@example.com,DE,CONSUMER,2025-05-01,2025-11-15T09:30:00
+57,Sofia,Lopez,sofia.lopez57@example.com,US,ENTERPRISE,2025-02-07,2025-11-15T09:30:00
+163,Hana,Patel,hana.patel163@example.com,CA,ENTERPRISE,2025-07-29,2025-11-15T09:30:00
+49,Grace,Khan,grace.khan49@example.com,us,CONSUMER,2025-03-21,2025-11-15T09:30:00
+159,Liam,Reddy,liam.reddy159@example.com,US,ENTERPRISE,2025-05-09,2025-11-15T09:30:00
+65,Priya,Singh,priya.singh65@example.com,AU,CONSUMER,2025-08-05,2025-11-15T09:30:00
+174,Hana,Kim,hana.kim174@example.com,GB,SMALL_BUSINESS,2025-03-16,2025-11-15T09:30:00
+194,Priya,Lopez,priya.lopez194@example.com,AU,ENTERPRISE,2025-01-05,2025-11-15T09:30:00
+185,Olivia,Patel,olivia.patel185@example.com,CA,SMALL_BUSINESS,2025-05-16,2025-11-15T09:30:00
+197,Lucas,Reddy,lucas.reddy197@example.com,us,ENTERPRISE,2025-02-24,2025-11-15T09:30:00
+169,Liam,Kim,liam.kim169@example.com,CA,CONSUMER,2025-03-09,2025-11-15T09:30:00
+175,Omar,Martin,omar.martin175@example.com,CA,CONSUMER,2025-02-05,2025-11-15T09:30:00
+36,Liam,Kim,liam.kim36@example.com,AU,CONSUMER,2025-01-17,2025-11-15T09:30:00
+161,Priya,Wilson,priya.wilson161@example.com,GB,SMALL_BUSINESS,2025-03-31,2025-11-15T09:30:00
